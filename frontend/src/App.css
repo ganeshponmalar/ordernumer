@@ -1,0 +1,36 @@
+
+
+.btn{
+  
+    border-radius: 20px;
+    background: #e0e0e0;
+    box-shadow: 15px 15px 30px #bebebe,
+    -15px -15px 30px #ffffff;
+    margin-left: 10%;
+    
+}
+
+textarea{
+   margin-left: 20px;
+   margin-top: 3%;
+
+
+}
+.label{
+    
+    position: relative;
+    justify-content: center;
+    margin-top: 50%;
+}
+
+.h3{
+    color: #fff;
+    text-decoration: line-through;
+    user-select: none;
+    background-color: black;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 22px;
+    margin-bottom: auto;
+}

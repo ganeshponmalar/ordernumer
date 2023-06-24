@@ -1,0 +1,25 @@
+.text-a{
+
+  width: 50%;
+  height: 80px;
+  border-color: blue;
+
+}
+
+.details {
+  background-color: #fff; /* Example background color */
+  padding: 10px;
+  margin-top: 20px;
+  border: 2px solid blue;
+  margin-left: 20px;
+  width: 50%;
+}
+
+.btn {
+  background-color: blue; /* Example background color */
+  color: black;
+  border: none;
+  padding: 15px 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
