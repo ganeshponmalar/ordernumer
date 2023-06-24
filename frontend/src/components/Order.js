@@ -9,6 +9,8 @@ export default function FormatData() {
   const [data, setData] = useState(null);
 
   const [loading, setLoading] = useState(false);
+  
+  console.log(loading)
 
   const handleFetchData = () => {
 
